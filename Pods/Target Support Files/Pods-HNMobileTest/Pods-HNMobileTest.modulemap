@@ -1,0 +1,6 @@
+framework module Pods_HNMobileTest {
+  umbrella header "Pods-HNMobileTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
